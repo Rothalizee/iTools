@@ -1,8 +1,9 @@
 # iTools 🛠️
 > **Die ultimative All-in-One Medien- & System-Suite für iPadOS**
 
-[![Download iTools](https://img.shields.io)](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)
-
+> [!TIP]
+> ### [📲 iTools jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)
+> *Klicken Sie auf den Link, um die .shortcut-Datei direkt zu laden.*
 
 `iTools` ist ein hocheffizienter Kurzbefehl, der über **90 Funktionen** zentralisiert. Er ersetzt zahlreiche Einzel-Apps durch native Systemautomatisierungen und bietet Power-Usern eine professionelle Werkzeugpalette für den Alltag.
 
