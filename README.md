@@ -5,7 +5,7 @@
 `iTools` ist ein hocheffizienter Kurzbefehl, der über **90 Funktionen** zentralisiert. Er ersetzt zahlreiche Einzel-Apps durch native Systemautomatisierungen und bietet Power-Usern eine professionelle Werkzeugpalette für den Alltag.
 
 > [!TIP]
-> ### [📲 iTools jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
+> ### [📲 iTools 1.0 jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
 > *Klicken Sie auf den Link, um die .shortcut-Datei direkt zu laden.*
 
 ---
