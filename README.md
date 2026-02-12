@@ -5,7 +5,7 @@
 `iTools` ist ein hocheffizienter Kurzbefehl, der über **90 Funktionen** zentralisiert. Er ersetzt zahlreiche Einzel-Apps durch native Systemautomatisierungen und bietet Power-Usern eine professionelle Werkzeugpalette für den Alltag.
 
 > [!TIP]
-> ### [📲 iTools 1.0 jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
+> ### [📲 iTools 1.1 jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
 > *Klicken Sie auf den Link, um die .shortcut-Datei direkt zu laden.*
 
 ---
@@ -42,17 +42,17 @@
 
 | Bereich | Code-Range | Modul |
 | :--- | :--- | :--- |
-| **Bilder** | `01 - 34` | Grafik-Operationen & OCR |
-| **GIFs** | `35 - 44` | Animationen & Konvertierung |
-| **Audio** | `45 - 50` | Transkription & Sprachausgabe |
-| **Dokumente** | `51 - 68` | PDF, Text & Archivierung |
-| **System** | `69 - 82` | Codierung & Konvertierung |
-| **Netzwerk** | `83 - 93` | Diagnose & Status |
+| **Bilder** | `001 - 034` | Grafik-Operationen & OCR |
+| **GIFs** | `035 - 044` | Animationen & Konvertierung |
+| **Audio** | `045 - 050` | Transkription & Sprachausgabe |
+| **Dokumente** | `051 - 108` | PDF, Text & Archivierung |
+| **System** | `109 - 144` | Codierung & Konvertierung |
+| **Netzwerk** | `145 - 155` | Diagnose & Status |
 
 ---
 
 
-**Feedback erwünscht:** Falls Sie Fehler finden oder neue Funktionen vorschlagen möchten, senden Sie bitte eine E-Mail mit dem entsprechenden Fehlercode.
+**Feedback erwünscht:** Falls Sie Fehler finden oder neue Funktionen vorschlagen möchten, senden Sie bitte eine E-Mail mit dem entsprechenden Fehlercode, wenn Sie meinen Kontakt haben.
 
 ---
 *Optimiert für iPadOS. Erstellt mit Leidenschaft für Effizienz.*
