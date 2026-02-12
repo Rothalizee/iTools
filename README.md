@@ -36,6 +36,7 @@
 2.  Importieren Sie den Kurzbefehl in die [Apple Kurzbefehle-App](https://support.apple.com).
 3.  Erteilen Sie beim ersten Start die notwendigen Berechtigungen für den Zugriff auf Dateien und Medien.
 
+&nbsp;
 ---
 
 ## ⚠️ Fehlerbehebung (Error-Index)
@@ -50,6 +51,7 @@
 | **System** | `109 - 144` | Codierung & Konvertierung |
 | **Netzwerk** | `145 - 155` | Diagnose & Status |
 
+&nbsp;
 ---
 
 
