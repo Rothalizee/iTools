@@ -57,5 +57,6 @@
 
 **Feedback erwünscht:** Falls Sie Fehler finden oder neue Funktionen vorschlagen möchten, senden Sie bitte eine E-Mail mit dem entsprechenden Fehlercode, wenn Sie meinen Kontakt haben.
 
+&nbsp;
 ---
 *Optimiert für iPadOS. Erstellt mit Leidenschaft für Effizienz.*
